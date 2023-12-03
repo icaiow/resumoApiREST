@@ -52,6 +52,10 @@ Resumo sobre Api Rest e a implementação RESTFul e dos verbos http e http statu
 503 - Service Unavailable: Indica que o servidor não está pronto para manipular a solicitação. Pode ser devido a sobrecarga temporária ou manutenção do servidor.
 
 
-   Autor do resumo: Caio da Silva Nascimento - 01529409
+ 
+   
+   
+   
+Autor do resumo: Caio da Silva Nascimento - 01529409
 
 
