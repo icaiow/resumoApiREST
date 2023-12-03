@@ -22,7 +22,9 @@ Resumo sobre Api Rest e a implementação RESTFul e dos verbos http e http statu
 
 -Segurança: A AWS destaca a importância da segurança ao implementar APIs RESTful, enfatizando práticas seguras, como o uso de HTTPS para criptografar a comunicação.
 
-## DIFERENÇAS ENTRE REST e RESTful API REST é um estilo arquitetônico que define princípios gerais para o design de serviços web, enquanto RESTful API é uma implementação específica desses princípios em uma API particular. Uma API é considerada RESTful quando segue as boas práticas e convenções do REST. Portanto, "REST" refere-se ao estilo arquitetônico, enquanto "RESTful API" se refere a uma aplicação específica desses princípios na construção de serviços web.
+## DIFERENÇAS ENTRE REST e RESTful API 
+
+-REST é um estilo arquitetônico que define princípios gerais para o design de serviços web, enquanto RESTful API é uma implementação específica desses princípios em uma API particular. Uma API é considerada RESTful quando segue as boas práticas e convenções do REST. Portanto, "REST" refere-se ao estilo arquitetônico, enquanto "RESTful API" se refere a uma aplicação específica desses princípios na construção de serviços web.
 
 ## HTTP VERBS: Os HTTP verbs (métodos HTTP) são comandos utilizados em requisições HTTP para indicar a ação que deve ser realizada no recurso identificado. Cada verbo tem um significado específico e é associado a uma operação particular.
 
